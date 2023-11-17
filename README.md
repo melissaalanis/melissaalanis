@@ -1,6 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Melissa Alanis</h1>
 <h3 align="center">Undergraduate in Computer Science | IT Technician</h3>
 
+![snake gif](https://github.com/melissaalanis/melissaalanis/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
